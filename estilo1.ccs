@@ -1,0 +1,6 @@
+#expetiencia{
+    font-size: large;
+}
+body{
+     background-size: 200px 70px;
+}
